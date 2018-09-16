@@ -1,4 +1,7 @@
 # CSCU9YS - Computer Security & Forensics
+
+[TOC]
+
 # Overview
 
 - Cyberspace & the infrastructure are vulnerable to a wide range of risks. Cybercrime includes activities such as
